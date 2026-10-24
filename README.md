@@ -2,6 +2,9 @@
 
 A command-line tool for scanning and analyzing Discord servers, displaying several statistics in the form of tables and charts.
 
+> [!NOTE]
+> This project is no longer maintained (built in 2021). It logs in with a user account token, which goes against Discord's Terms of Service and is no longer supported by recent versions of `discord.py`, so it is kept here for reference only.
+
 ## Features
 
 ### Server scanning
